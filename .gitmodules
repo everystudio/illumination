@@ -1,0 +1,9 @@
+[submodule "Assets/illumination.Main"]
+	path = Assets/illumination.Main
+	url = https://github.com/everystudio/illumination.Main
+[submodule "Assets/illumination.Resources"]
+	path = Assets/illumination.Resources
+	url = https://github.com/everystudio/illumination.Resources
+[submodule "Assets/everystudio-library"]
+	path = Assets/everystudio-library
+	url = https://github.com/everystudio/everystudio-library
